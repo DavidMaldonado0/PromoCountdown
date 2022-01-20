@@ -24,6 +24,7 @@ h2 {
 
 .countdown {
   display: flex;
+  padding: 2em;
   justify-content: space-around;
   text-align: center;
 }
@@ -36,5 +37,5 @@ h2 {
 }
 
 .brands {
-  height: 50vh;
+  height: 30vh;
 }
