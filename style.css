@@ -117,3 +117,9 @@ h2 {
 .waveAnimation .waveBottom {
   animation: move_wave 15s linear infinite;
 }
+
+@media screen and (max-width: 800px) {
+  h2 {
+    font-size: 2rem;
+  }
+}
